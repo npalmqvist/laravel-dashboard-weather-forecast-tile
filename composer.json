@@ -1,5 +1,5 @@
 {
-    "name": "solitweb/laravel-dashboard-weather-forecast-tile",
+    "name": "npalmqvist/laravel-dashboard-weather-forecast-tile",
     "description": "A weather forecast tile for the Laravel Dashboard",
     "keywords": [
         "solitweb",
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
-        "spatie/laravel-dashboard": "^2.0"
+        "php": "^8.0",
+        "spatie/laravel-dashboard": "^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.3"
